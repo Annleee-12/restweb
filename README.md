@@ -30,7 +30,6 @@ Publish the website in Localhost.
 ## PROGRAM:
 ```
 rest.html
-
 <html>
     <head>
         <meta charset="UTF-8">
@@ -52,10 +51,11 @@ rest.html
             <p>From sizzling street-style tacos to rich, slow-cooked moles passed down through generations - every plate at Triple D is a fiesta of bold flavours, fresh ingredients, and authentic Mexican soul. Come hungry, leave happy. Viva la comida!</p>
         </section>
         <footer>
-            <p>Designed by G.SHAWN RONEL(25005544)</p>
+            <p>Designed by ANNLEE AGHAI DAVIDSON(25001177)</p>
         </footer>
     </body>
 </html>
+
 menu.html
 <html>
 <head>
@@ -157,11 +157,12 @@ menu.html
 </div>
 
 <footer>
-<p>Designed by: G. SHAWN RONEL(25005544)</p>
+<p>Designed by ANNLEE AGHAI DAVIDSON(25001177)</p>
 </footer>
 
 </body>
 </html>
+
 contact.html
 <html>
 <head>
@@ -180,16 +181,17 @@ contact.html
 
         <p><strong>Phone Number :</strong> +91 6380057435</p>
 
-        <p><strong>Email :</strong> tripled@gmail.com</p>
+        <p><strong>Email :</strong> contact us@gmail.com</p>
 
     </section>
 
     <footer>
-        <p>Designed by G. SHAWN RONEL(25005544)</p>
+        <p>Designed by ANNLEE AGHAI DAVIDSON(25001177)</p>
     </footer>
 
 </body>
 </html>
+
 admin.html
 <html>
 <head>
@@ -205,7 +207,7 @@ admin.html
     <section class="team">
 
         <div class="member">
-            <img src="image/staffceo.jpeg" alt="Carlos Mendoza">
+            <img src="image/staffceo.jpeg" alt="ANNLEE AGHAI">
             <h3>Carlos Mendoza</h3>
             <span>Chief Executive Officer</span>
         </div>
@@ -243,11 +245,12 @@ admin.html
     </section>
 
     <footer>
-        <p>Designed by G. SHAWN RONEL(25005544)</p>
+        <p>Designed by ANNLEE AGHAI DAVIDSON(25001177)</p>
     </footer>
 
 </body>
 </html>
+
 ```
 
 ## OUTPUT:
